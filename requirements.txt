@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+prophet
